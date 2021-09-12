@@ -1,8 +1,13 @@
 # Practica del Modulo UX Movil Diseño IU
 
-### Archivo Sketch
+Practica realizado con la herramienta de Sketch con las enseñazas del prof. Dani Soler experto en la materia. 
 
-[](https://github.com/farroyob/ehho/blob/main/Archivos/Practica.sketch)
+## Realizado por Freddy Arroyo
+
+### Archivo Sketch
+se encuenta en la carpeta de archivos y acceso directo:
+
+[Archivo Sketch](https://github.com/farroyob/ehho/blob/main/Archivos/Practica.sketch)
 
 ### Pantalla Splash
 
